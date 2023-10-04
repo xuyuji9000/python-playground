@@ -1,0 +1,1 @@
+This folder contains an environment used for playing with Whisper AI model.
